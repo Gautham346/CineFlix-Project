@@ -96,3 +96,5 @@ def send_email(recipient,template,subject,context):
 #     recommended_movies = Movie.objects.filter(id__in=recommended_movies_ids)
 
 #     return recommended_movies 
+
+
